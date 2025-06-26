@@ -1,0 +1,20 @@
+{
+    "id": "b968b142-d0bb-470f-b369-9ce3a744a8d0",
+    "pipeline_type": "WORKSPACE",
+    "development": true,
+    "continuous": false,
+    "channel": "CURRENT",
+    "photon": true,
+    "libraries": [
+        {
+            "notebook": {
+                "path": "/Users/user@databricks.com/DeltaLiveTables-Python"
+            }
+        }
+    ],
+    "name": "DeltaLiveTable-Python",
+    "serverless": true,
+    "catalog": "main",
+    "target": "dlt_python",
+    "data_sampling": false
+}

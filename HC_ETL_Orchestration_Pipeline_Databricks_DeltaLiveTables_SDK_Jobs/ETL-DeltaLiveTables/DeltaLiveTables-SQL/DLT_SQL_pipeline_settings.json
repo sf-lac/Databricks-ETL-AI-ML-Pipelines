@@ -1,0 +1,20 @@
+{
+    "id": "ce45eeba-9337-4580-9b4a-402ac3ae231f",
+    "pipeline_type": "WORKSPACE",
+    "development": true,
+    "continuous": false,
+    "channel": "CURRENT",
+    "photon": true,
+    "libraries": [
+        {
+            "notebook": {
+                "path": "/Users/user@databricks.com/DeltaLiveTables-SQL"
+            }
+        }
+    ],
+    "name": "DeltaLiveTables-SQL",
+    "serverless": true,
+    "catalog": "main",
+    "target": "dlt-sql",
+    "data_sampling": false
+}
